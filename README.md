@@ -18,11 +18,6 @@ This portfolio project is a minimalistic representation of my skills, projects, 
 - **Projects**: Showcase your projects with brief descriptions and links.
 - **Contact Information**: Include ways for visitors to get in touch with you.
 
-## Usage
-1. Clone the repository: `git clone https://github.com/your-username/portfolio-html.git`
-2. Open the `index.html` file in your preferred web browser.
-3. Explore the different sections of the portfolio to learn more about your skills and projects.
-
 ## Customization
 Feel free to customize this portfolio to fit your personal style and preferences:
 - Update the content in the HTML file to reflect your information.

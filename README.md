@@ -22,9 +22,6 @@ This portfolio project is a minimalistic representation of my skills, projects, 
 Feel free to customize this portfolio to fit your personal style and preferences:
 - Update the content in the HTML file to reflect your information.
 - Modify the styling by editing the included CSS or adding your own.
-
-## License
-[Indicate the license you've chosen for this project, e.g., MIT License, GNU General Public License v3.0, etc.]
-
+- 
 ---
 Thank you for visiting my portfolio! If you have any questions or would like to connect, feel free to reach out.

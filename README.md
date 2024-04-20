@@ -23,5 +23,6 @@ Feel free to customize this portfolio to fit your personal style and preferences
 - Update the content in the HTML file to reflect your information.
 - Modify the styling by editing the included CSS or adding your own.
 - 
----
+---![Uploading Screenshot 2024-04-20 at 4.04.14 PM.png…]()
+
 Thank you for visiting my portfolio! If you have any questions or would like to connect, feel free to reach out.
